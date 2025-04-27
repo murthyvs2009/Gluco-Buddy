@@ -10,11 +10,9 @@ Gluco Buddy is a health tracking app that helps users monitor glucose levels (FP
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript (React, Bootstrap for UI)
+- **Frontend**: HTML, CSS, JavaScript (Bootstrap for UI)
 - **Backend**: PHP (CodeIgniter 3)
 - **Database**: MySQL
-- **Payment Integration**: Razorpay (if implemented for premium features)
-- **Google Fit Integration**: (If implemented for step tracking)
 
 ## Installation
 
