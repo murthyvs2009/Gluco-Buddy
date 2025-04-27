@@ -19,3 +19,6 @@ Gluco Buddy is a health tracking app that helps users monitor glucose levels (FP
 1. **Clone the repository** to your local machine:
    ```bash
    git clone https://github.com/yourusername/Gluco-Buddy.git
+
+### Excluded Files:
+- I have included only the necessary folders and files under the `application` directory. Folders such as **Logs**, **Languages**, and other files that have not been modified for this project are not included in the repository.
