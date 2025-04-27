@@ -22,3 +22,4 @@ Gluco Buddy is a health tracking app that helps users monitor glucose levels (FP
 
 ### Excluded Files:
 - I have included only the necessary folders and files under the `application` directory. Folders such as **Logs**, **Languages**, and other files that have not been modified for this project are not included in the repository.
+- Additionally, for security reasons, the `database.php` and `config.php` files located in the **Config** folder have been excluded, as they contain sensitive information such as database credentials and configuration settings that must be configured independently.
